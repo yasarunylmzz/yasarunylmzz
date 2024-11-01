@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasar</h1>
-<h3 align="center">A Computer Engineering student in Turkey</h3>
-
-- 🌱 I’m currently learning **Python / Swift / .NET**
+<h3 align="center">A Computer Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
